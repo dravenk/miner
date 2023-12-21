@@ -1,0 +1,14 @@
+[package]
+name = "miner"
+version = "0.1.0"
+edition = "2021"
+authors = ["dravenk <longxianwen@outlook.com>"]
+# pro for rust
+description = "Miner is used for blockchain and web 3.0 mining."
+readme = "README.md"
+repository = "https://github.com/dravenk/miner/"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/miner"
+keywords = ["miner", "mining", "coin", "blockchain", "web3"]
+
+[dependencies]
